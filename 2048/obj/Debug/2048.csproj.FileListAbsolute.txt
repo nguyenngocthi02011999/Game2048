@@ -1,0 +1,9 @@
+D:\TRUONG\Lập trình Service\2048\2048\bin\Debug\2048.exe.config
+D:\TRUONG\Lập trình Service\2048\2048\bin\Debug\2048.exe
+D:\TRUONG\Lập trình Service\2048\2048\bin\Debug\2048.pdb
+D:\TRUONG\Lập trình Service\2048\2048\obj\Debug\_2048.Form1.resources
+D:\TRUONG\Lập trình Service\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+D:\TRUONG\Lập trình Service\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+D:\TRUONG\Lập trình Service\2048\2048\obj\Debug\2048.exe
+D:\TRUONG\Lập trình Service\2048\2048\obj\Debug\2048.pdb
+D:\TRUONG\Lập trình Service\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
